@@ -56,6 +56,7 @@ add_message_files(
   ObservationArray.msg
   Reward.msg
   IsTerminal.msg
+  IsTerminalArray.msg
 )
 
 ## Generate services in the 'srv' folder
