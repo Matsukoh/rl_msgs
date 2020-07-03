@@ -1,2 +1,2 @@
-std_msgs/Header            header
-rl_msgs/IsTerminal[]       IsTerminals
+std_msgs/Header      header
+rl_msgs/IsTerminal[] IsTerminals
